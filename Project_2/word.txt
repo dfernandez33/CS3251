@@ -1,0 +1,15 @@
+amount
+voice
+oven
+snake
+umbrella
+volcano
+request
+month
+slope
+bite
+form
+trucks
+man
+building
+toys
